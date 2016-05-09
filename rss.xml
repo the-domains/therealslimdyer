@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[therealslimdyer]]></title>
         <description><![CDATA[therealslimdyer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/therealslimdyer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 20:27:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 20:30:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/therealslimdyer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>When we examine the actions of those around us, it's sometimes just too easy to see where they were totally wrong or just plain stupid. Others' faults and mistakes seem so obvious that we wonder how they could be unaware of them. However, we rarely turn this hypercritical eye inward and see how we suffer from the same sense of over-inflated confidence and self-worth. People think that somehow they are different. The problem is, they probably aren't.</p>]]></description>
+            <link>https://thegrid.ai/therealslimdyer/when-we-examine-the-actions-of-those-around-us-its-sometim/index.html</link>
+            <guid isPermaLink="false">f417406e-7313-454f-9b27-1dcc85313f9a</guid>
+            <pubDate>Mon, 09 May 2016 20:30:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>"From a position of privilege, equality feels like oppression." - Alix Jules</p>]]></description>
-            <link>undefinedfrom-a-position-of-privilege-equality-feels-like-oppressio/index.html</link>
+            <link>https://thegrid.ai/therealslimdyer/from-a-position-of-privilege-equality-feels-like-oppressio/index.html</link>
             <guid isPermaLink="false">34568d26-d3fc-4b61-9702-ee8737e71094</guid>
             <pubDate>Mon, 09 May 2016 20:27:28 GMT</pubDate>
         </item>
